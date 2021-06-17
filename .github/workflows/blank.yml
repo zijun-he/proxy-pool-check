@@ -39,6 +39,7 @@ jobs:
         run: sudo -E ./proxypoolCheck -c config.yaml &
       - name: download proxies file 
         run: |
+          rm -rf clash
           mkdir clash
           wget http://127.0.0.1:90/clash/proxies  -O clash/proxies
       - name: 提交更改
