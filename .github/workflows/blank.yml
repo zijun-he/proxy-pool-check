@@ -38,16 +38,18 @@ jobs:
       - name: execute proxy-pool-check
         run: sudo -E ./proxypoolCheck -c config.yaml &
       - name: download proxies file 
-        run: wget http://127.0.0.1:90/clash/proxies  -O proxies
-#       - name: 提交更改
-#       run: |                 
-#          git config --local user.email "jth445600@gmail.com"
-#          git config --local user.name "jth445600"
-#          git add subscribe/v2ray.txt
-#          git add subscribe/clash.yml
-#          git commit -m "更新订阅链接"
-#       - name: 推送更改
-#       uses:  ad-m/github-push-action@master
-#       with:
-#          # github_token: ${{ secrets.TOKEN }}
-#          branch: main
+        run: |
+          mkdir clash
+          wget http://127.0.0.1:90/clash/proxies  -O clash/proxies
+      - name: 提交更改
+        run: |                 
+         git config --local user.email "jth445600@gmail.com"
+          git config --local user.name "jth445600"
+          git add .
+          git commit -m "更新订阅链接"
+          git push 
+        # - name: 推送更改
+        # uses:  ad-m/github-push-action@master
+        # with:
+        #  # github_token: ${{ secrets.TOKEN }}
+        #  branch: main
