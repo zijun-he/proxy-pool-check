@@ -37,6 +37,7 @@ jobs:
           sudo -E apt-get clean
       - name: execute proxy-pool-check
         run: ./proxypoolCheck -c config.yaml
+      - name: download proxies file 
        - run: wget http://127.0.0.1:90/clash/proxies  -O proxies
 #       - name: 提交更改
 #       run: |                 
