@@ -26,15 +26,15 @@ jobs:
       # Runs a single command using the runners shell
       - run: chmod  777 ./proxypoolCheck
       - run: ls -l
-      - name: Space cleanup
-        env:
-          DEBIAN_FRONTEND: noninteractive
-        run: |
+      # - name: Space cleanup
+      #   env:
+      #     DEBIAN_FRONTEND: noninteractive
+      #   run: |
         
-          sudo -E apt-get update
-          sudo -E apt-get -y install wget unzip 
-          sudo -E apt-get -y autoremove --purge
-          sudo -E apt-get clean
+      #     sudo -E apt-get update
+      #     sudo -E apt-get -y install wget unzip 
+      #     sudo -E apt-get -y autoremove --purge
+      #     sudo -E apt-get clean
       - name: execute proxy-pool-check
         run: sudo -E ./proxypoolCheck -c config.yaml
       - name: download proxies file 
