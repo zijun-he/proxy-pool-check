@@ -47,7 +47,7 @@ jobs:
         run: |                 
          git config --local user.email "jth445600@gmail.com"
           git config --local user.name "jth445600"
-          git add .
+          git add clash/proxies
           git commit -m "更新订阅链接"
           git push 
         # - name: 推送更改
