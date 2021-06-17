@@ -42,7 +42,7 @@ jobs:
           sleep 250
           rm -rf clash
           mkdir clash
-          wget http://127.0.0.1:90/clash/proxies  -O clash/proxies
+          wget http://127.0.0.1:90/clash/proxies?c=CN,HK,TW,JP,KR,SG  -O clash/proxies
       - name: 提交更改
         run: |                 
          git config --local user.email "jth445600@gmail.com"
