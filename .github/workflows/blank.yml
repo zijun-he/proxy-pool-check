@@ -36,18 +36,22 @@ jobs:
       #     sudo -E apt-get -y autoremove --purge
       #     sudo -E apt-get clean
       - name: execute proxy-pool-check
-        run: sudo -E ./proxypoolCheck -c config.yaml &
+        run: |
+          rm -f check-log
+          touch check-log
+          sudo -E ./proxypoolCheck -c config.yaml  > ./check-log 2>&1' &
       - name: download proxies file 
         run: |
           sleep 400
           rm -rf clash
           mkdir clash
-          wget http://127.0.0.1:90/clash/proxies?c=CN,HK,TW,JP,KR,SG  -O clash/proxies
+          wget http://127.0.0.1:90/clash/proxies?c=CN,HK,TW,JP,KR,SG,US  -O clash/proxies
       - name: 提交更改
         run: |                 
          git config --local user.email "jth445600@gmail.com"
           git config --local user.name "jth445600"
           git add clash/proxies
+          git add check-log
           git commit -m "更新订阅链接"
           git push 
         # - name: 推送更改
