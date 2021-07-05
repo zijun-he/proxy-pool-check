@@ -39,7 +39,7 @@ jobs:
         run: |
           rm -f check-log
           touch check-log
-          sudo -E ./proxypoolCheck -c config.yaml  > ./check-log 2>&1' &
+          sudo -E ./proxypoolCheck -c config.yaml  > ./check-log 2>&1 &
       - name: download proxies file 
         run: |
           sleep 400
