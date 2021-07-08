@@ -1,3 +1,3 @@
-2021/07/08 16:20:42 The program will run every 60 minutes
-2021/07/08 16:21:09 Get proxies error:  Get "https://etproxypool.ga/clash/proxies": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/07/08 17:06:28 The program will run every 60 minutes
+2021/07/08 17:06:44 Get proxies error:  Get "https://etproxypool.ga/clash/proxies": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
 [1010]  WARN provider: nothing to provide
