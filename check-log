@@ -1,3 +1,3 @@
-2021/07/16 20:10:28 The program will run every 60 minutes
-2021/07/16 20:10:46 Get proxies error:  Get "https://free.kingfu.cf/clash/proxies": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+2021/07/16 20:36:07 The program will run every 60 minutes
+2021/07/16 20:36:09 Get proxies error:  No proxy on remote server
 [1010]  WARN provider: nothing to provide
