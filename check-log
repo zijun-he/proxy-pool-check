@@ -1,3 +1,3 @@
-2021/08/02 08:39:35 The program will run every 60 minutes
-2021/08/02 08:39:36 Get proxies error:  Get "http://165.232.154.1:12580/clash/proxies": dial tcp 165.232.154.1:12580: connect: connection refused
+2021/08/02 09:10:43 The program will run every 60 minutes
+2021/08/02 09:10:43 Get proxies error:  Get "http://165.232.154.1:12580/clash/proxies": dial tcp 165.232.154.1:12580: connect: connection refused
 [1010]  WARN provider: nothing to provide
