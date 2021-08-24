@@ -1,3 +1,3 @@
-2021/08/24 16:59:21 The program will run every 60 minutes
-2021/08/24 16:59:31 Get proxies error:  Get "https://proxy.yugogo.xyz/clash/proxies": dial tcp 107.173.149.71:443: i/o timeout (Client.Timeout exceeded while awaiting headers)
+2021/08/24 17:23:51 The program will run every 60 minutes
+2021/08/24 17:23:52 Get proxies error:  Get "http://165.232.154.1:12580/clash/proxies": dial tcp 165.232.154.1:12580: connect: connection refused
 [1010]  WARN provider: nothing to provide
