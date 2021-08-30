@@ -1,3 +1,3 @@
-2021/08/30 00:34:52 The program will run every 60 minutes
-2021/08/30 00:34:52 Get proxies error:  Get "https://proxy.yugogo.xyz/clash/proxies": x509: certificate has expired or is not yet valid: current time 2021-08-30T00:34:52Z is after 2021-08-29T06:29:37Z
+2021/08/30 01:50:41 The program will run every 60 minutes
+2021/08/30 01:50:41 Get proxies error:  Get "https://proxy.yugogo.xyz/clash/proxies": x509: certificate has expired or is not yet valid: current time 2021-08-30T01:50:41Z is after 2021-08-29T06:29:37Z
 [1010]  WARN provider: nothing to provide
