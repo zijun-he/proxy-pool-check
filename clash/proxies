@@ -8,3 +8,130 @@ proxies:
 - {"name":"Earth_9 | 8.52Mb","server":"138.199.42.170","type":"ss","port":49396,"password":"BdRWC38L5JUDMTYNNxJGcUwB","cipher":"aes-256-gcm"}
 - {"name":"CA_1 | 8.05Mb","server":"198.57.27.218","type":"ss","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
 - {"name":"SK_21 | 9.99Mb","server":"185.76.8.218","type":"ss","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+  - {name: 🇫🇷 法国(Youtube频道：工具大师！), server: 145.239.1.137, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 美国 🇺🇸(Youtube频道：工具大师！), server: 23.106.33.156, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: R3wS0jxB8ARCZgapOF8a4CpFc5lSOqCDZYSXD2a3zuY7eETD6IANy39elnxKy3}
+  - {name: JP(Youtube频道：工具大师！), server: kaizen-jp-4.cn0.me, port: 443, type: trojan, password: 01cfa1e4-cdce-35f6-9d66-88723210601dcmynw, sni: kaizen-jp-4.cn0.me}
+  - {name: 🇺🇸 US美国(Youtube频道：工具大师！), server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: JP(Youtube频道：工具大师！) 2, server: 185.128.26.130, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: GU3kqh2ZSkzFkRBp4hxy}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！), server: 95.142.161.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uDlqozPwCk4A}
+  - {name: 🇸🇬 SG(Youtube频道：工具大师！), server: 217.197.161.136, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 2, server: 38.68.134.85, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 3, server: 38.68.134.23, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 4, server: 38.68.134.85, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇷🇺 俄罗斯(Youtube频道：工具大师！), server: t5.ssrsub.com, port: 21033, type: trojan, password: 1ed0dd9b-7c66-4738-be47-8e543b2126e4, sni: t5.ssrsub.com}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！), server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！), server: hkt.poloddns.xyz, port: 59985, type: ss, cipher: aes-128-gcm, password: 64546545wafasf}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 5, server: 38.114.114.49, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 6, server: 38.68.134.37, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 7, server: 38.75.136.117, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 8, server: 38.75.136.21, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 9, server: 38.75.136.21, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 挪威 🇳🇴(Youtube频道：工具大师！), server: 45.141.152.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: FTvsfXCvXLPFEMKNSADr}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 10, server: 38.114.114.68, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 11, server: 38.68.134.190, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 2, server: 134.195.196.33, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 12, server: 142.202.48.52, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 13, server: 38.68.135.19, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇩🇪 德国 🇩🇪(Youtube频道：工具大师！), server: 89.163.220.82, port: 11016, type: vmess, uuid: 842fcd78-475d-11ec-aa20-9cb6548b0ccc, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /cOhjRn2G/, ws-headers: {Host: 89.163.220.82}}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 3, server: 134.195.196.217, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 14, server: 142.202.48.105, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 15, server: 142.202.48.45, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 16, server: 142.202.48.81, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 17, server: 142.202.48.99, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 18, server: 142.202.48.105, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 19, server: 142.202.48.52, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 20, server: 167.88.63.89, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 4, server: 198.57.27.184, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇸🇬 SG(Youtube频道：工具大师！) 2, server: 217.197.161.109, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 21, server: 45.141.102.51, port: 35465, type: vmess, uuid: d7bbbcad-0653-42a1-b101-db44624707aa, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 22, server: 167.88.62.68, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 23, server: 167.88.63.79, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 5, server: 198.57.27.191, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 24, server: 142.202.48.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: GB(Youtube频道：工具大师！), server: 195.12.49.82, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 6, server: 198.57.27.16, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 25, server: 104.17.170.210, port: 443, type: vmess, uuid: d064d11b-477c-4c5d-a2d8-9fd599ef8e79, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: kycc, ws-headers: {Host: lsb.stupidfellow.cf}}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 2, server: czlt.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /tde, ws-headers: {Host: czlt.tuboshu.space}}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 26, server: 142.202.48.52, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 2, server: 142.202.48.78, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇩🇪 德国(Youtube频道：工具大师！), server: 161.97.64.169, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: czXXqP8K5Uya}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 3, server: global-transit-01-hn.pucdn.me, port: 60001, type: vmess, uuid: 0e4a0f2f-9cc9-3b11-9e6a-4392c4fcfc6c, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: global-transit-01-hn.pucdn.me}}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 7, server: 134.195.196.52, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 27, server: 142.202.48.114, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 28, server: 167.88.63.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇸🇪 瑞典(Youtube频道：工具大师！), server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: _AU(Youtube频道：工具大师！), server: 172.105.171.80, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 8, server: 198.57.27.191, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 9, server: 51.161.118.38, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 29, server: 142.202.48.83, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 30, server: 38.68.134.37, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇫🇷 法国(Youtube频道：工具大师！) 2, server: 145.239.7.164, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 31, server: 167.88.62.68, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 32, server: 38.114.114.68, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 33, server: 142.202.48.78, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 34, server: 167.88.62.34, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 35, server: 167.88.63.74, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 36, server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇫🇷 法国(Youtube频道：工具大师！) 3, server: 146.0.36.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 37, server: 172.104.168.83, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 38, server: 38.68.134.23, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 10, server: 134.195.196.217, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇸🇬 SG(Youtube频道：工具大师！) 3, server: 217.197.161.109, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 11, server: 134.195.196.3, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 12, server: 134.195.196.110, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 39, server: 142.202.48.108, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 40, server: 104.16.181.103, port: 443, type: vmess, uuid: 7be43971-52f1-48af-9036-454a94b4723a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: "/ws/?ed=2048", ws-headers: {Host: download.china666.ml}}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 13, server: 134.195.196.33, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 美国(Youtube频道：工具大师！), server: 172.99.190.90, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 4, server: cm-jm.okvpn.xyz, port: 20003, type: vmess, uuid: 8b01a256-4f75-4c5e-8389-fca90104ff47, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
+  - {name: 挪威 🇳🇴(Youtube频道：工具大师！) 2, server: 46.29.218.6, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: (技术分享室整理欢迎订阅), server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 14, server: 134.195.196.52, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 15, server: 134.195.198.178, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 16, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: FR(Youtube频道：工具大师！), server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 41, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 挪威(Youtube频道：工具大师！), server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 5, server: fosyd.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thcm, ws-headers: {Host: fosyd.tuboshu.space}}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 6, server: hzlt.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thcm, ws-headers: {Host: hzlt.tuboshu.space}}
+  - {name: 🇷🇺 俄罗斯(Youtube频道：工具大师！) 2, server: t4.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb, sni: t4.ssrsub.com}
+  - {name: 🇷🇺 俄罗斯(Youtube频道：工具大师！) 3, server: t5.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb, sni: t5.ssrsub.com}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 42, server: 107.189.12.75, port: 80, type: vmess, uuid: 261aeb5f-b6f7-359c-a321-9794bf344e12, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 107.189.12.75}}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 17, server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: (Youtube频道：工具大师！), server: 134.195.198.95, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 美国(Youtube频道：工具大师！) 2, server: 143.198.237.214, port: 27489, type: vmess, uuid: d73f027b-9a37-4e79-dd29-3a0d1e1da128, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 143.198.237.214}}
+  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 3, server: 172.104.168.83, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇦🇺 澳大利亚 🇦🇺(Youtube频道：工具大师！), server: 172.104.98.216, port: 80, type: vmess, uuid: e5af0cad-295c-37b2-b601-f35d13f6b1bb, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: www.gov.hk}}
+  - {name: 🇩🇪 德国 🇩🇪(Youtube频道：工具大师！) 2, server: 172.105.59.32, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 43, server: 142.202.48.17, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 44, server: 142.202.48.17, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 4, server: 142.202.48.17, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇺🇸 US(Youtube频道：工具大师！) 45, server: 142.202.48.58, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 5, server: 142.202.48.77, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: (Youtube频道：工具大师！) 2, server: 145.239.1.137, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇨🇦 加拿大🇨🇦(Youtube频道：工具大师！), server: 198.57.27.113, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 18, server: 198.57.27.152, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇬🇧 英国 🇬🇧(Youtube频道：工具大师！), server: 23.106.35.90, port: 18336, type: ss, cipher: chacha20-ietf-poly1305, password: A33x2ly5CjwpZ7DYZOe4FC0CupxSKA89caI8gSlRaE3DYnaXeORD6SNFyqBTz3}
+  - {name: (Youtube频道：工具大师！) 3, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 7, server: cm-jm.okvpn.xyz, port: 20015, type: vmess, uuid: 189dede4-c62b-4709-8340-5600557ae8b3, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
+  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 8, server: fosyd.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thkyd, ws-headers: {Host: fosyd.tuboshu.space}}
+  - {name: 🇸🇬 新加坡(Youtube频道：工具大师！), server: 217.197.161.109, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇨🇳 台湾(Youtube频道：工具大师！), server: 140.179.85.93, port: 20805, type: vmess, uuid: 0231acc5-d0c0-47e9-98fd-d71ebfb3b19c, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 140.179.85.93}}
+  - {name: 🇺🇸 美国(Youtube频道：工具大师！) 3, server: v1-do-ua-03.niaoyun.online, port: 666, type: vmess, uuid: 9abca0dd-b438-3bd9-b5db-487af35082d0, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /niaocloud, ws-headers: {Host: v1-do-ua-03.niaoyun.online}}
+  - {name: 🇺🇸 美国(Youtube频道：工具大师！) 4, server: 172.107.233.234, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！), server: 142.202.48.7, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 2, server: 142.202.48.81, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 3, server: 38.107.226.48, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 4, server: 142.202.48.114, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 5, server: 142.202.48.58, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 6, server: 142.202.48.34, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 7, server: 142.202.48.74, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 8, server: 134.195.196.52, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 9, server: 134.195.196.68, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 10, server: 134.195.196.52, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 11, server: 134.195.196.33, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 12, server: 198.57.27.184, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 13, server: 198.57.27.191, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 14, server: 134.195.196.68, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 15, server: 38.75.137.187, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 16, server: 134.195.196.68, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
