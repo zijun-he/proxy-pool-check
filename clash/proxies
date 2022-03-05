@@ -1,137 +1,121 @@
 proxies:
-- {"name":"🇺🇸US_268 | 8.80Mb","server":"72.167.45.6","type":"trojan","country":"🇺🇸US","port":443,"password":"a3fa58b581353bb375d2ddad0f327938","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_270 | 8.19Mb","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"28d98f761aca9d636f44db62544628eb","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_273 | 9.17Mb","server":"72.167.33.106","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"🇺🇸US_281 |14.98Mb","server":"72.167.45.6","type":"trojan","country":"🇺🇸US","port":443,"password":"36ebef7d1b1d6205fd0c55f28800e674","skip-cert-verify":true,"udp":true}
-- {"name":"Pool_🇺🇸US_10599 | 8.07Mb","server":"198.147.22.87","type":"ss","country":"🇺🇸US","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇺🇸US_11849 |15.16Mb","server":"104.251.233.106","type":"vmess","country":"🇺🇸US","port":13723,"uuid":"a90597c1-bab3-4217-ad6f-0838675c8638","alterId":10,"cipher":"auto","network":"ws","ws-path":"/ray","servername":"en.tgchannels.org/channel/vpnpool","ws-headers":{"HOST":"en.tgchannels.org/channel/vpnpool"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
-- {"name":"Earth_9 | 8.52Mb","server":"138.199.42.170","type":"ss","port":49396,"password":"BdRWC38L5JUDMTYNNxJGcUwB","cipher":"aes-256-gcm"}
-- {"name":"CA_1 | 8.05Mb","server":"198.57.27.218","type":"ss","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
-- {"name":"SK_21 | 9.99Mb","server":"185.76.8.218","type":"ss","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-  - {name: 🇫🇷 法国(Youtube频道：工具大师！), server: 145.239.1.137, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 美国 🇺🇸(Youtube频道：工具大师！), server: 23.106.33.156, port: 18332, type: ss, cipher: chacha20-ietf-poly1305, password: R3wS0jxB8ARCZgapOF8a4CpFc5lSOqCDZYSXD2a3zuY7eETD6IANy39elnxKy3}
-  - {name: JP(Youtube频道：工具大师！), server: kaizen-jp-4.cn0.me, port: 443, type: trojan, password: 01cfa1e4-cdce-35f6-9d66-88723210601dcmynw, sni: kaizen-jp-4.cn0.me}
-  - {name: 🇺🇸 US美国(Youtube频道：工具大师！), server: 172.99.190.186, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: JP(Youtube频道：工具大师！) 2, server: 185.128.26.130, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: GU3kqh2ZSkzFkRBp4hxy}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！), server: 95.142.161.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uDlqozPwCk4A}
-  - {name: 🇸🇬 SG(Youtube频道：工具大师！), server: 217.197.161.136, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 2, server: 38.68.134.85, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 3, server: 38.68.134.23, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 4, server: 38.68.134.85, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇷🇺 俄罗斯(Youtube频道：工具大师！), server: t5.ssrsub.com, port: 21033, type: trojan, password: 1ed0dd9b-7c66-4738-be47-8e543b2126e4, sni: t5.ssrsub.com}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！), server: 134.195.198.178, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！), server: hkt.poloddns.xyz, port: 59985, type: ss, cipher: aes-128-gcm, password: 64546545wafasf}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 5, server: 38.114.114.49, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 6, server: 38.68.134.37, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 7, server: 38.75.136.117, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 8, server: 38.75.136.21, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 9, server: 38.75.136.21, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 挪威 🇳🇴(Youtube频道：工具大师！), server: 45.141.152.178, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: FTvsfXCvXLPFEMKNSADr}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 10, server: 38.114.114.68, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 11, server: 38.68.134.190, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 2, server: 134.195.196.33, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 12, server: 142.202.48.52, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 13, server: 38.68.135.19, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇩🇪 德国 🇩🇪(Youtube频道：工具大师！), server: 89.163.220.82, port: 11016, type: vmess, uuid: 842fcd78-475d-11ec-aa20-9cb6548b0ccc, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /cOhjRn2G/, ws-headers: {Host: 89.163.220.82}}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 3, server: 134.195.196.217, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 14, server: 142.202.48.105, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 15, server: 142.202.48.45, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 16, server: 142.202.48.81, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 17, server: 142.202.48.99, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 18, server: 142.202.48.105, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 19, server: 142.202.48.52, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 20, server: 167.88.63.89, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 4, server: 198.57.27.184, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇸🇬 SG(Youtube频道：工具大师！) 2, server: 217.197.161.109, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 21, server: 45.141.102.51, port: 35465, type: vmess, uuid: d7bbbcad-0653-42a1-b101-db44624707aa, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 22, server: 167.88.62.68, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 23, server: 167.88.63.79, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 5, server: 198.57.27.191, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 24, server: 142.202.48.99, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: GB(Youtube频道：工具大师！), server: 195.12.49.82, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 6, server: 198.57.27.16, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 25, server: 104.17.170.210, port: 443, type: vmess, uuid: d064d11b-477c-4c5d-a2d8-9fd599ef8e79, alterId: 1, cipher: auto, tls: true, network: ws, ws-path: kycc, ws-headers: {Host: lsb.stupidfellow.cf}}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 2, server: czlt.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /tde, ws-headers: {Host: czlt.tuboshu.space}}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 26, server: 142.202.48.52, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 2, server: 142.202.48.78, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇩🇪 德国(Youtube频道：工具大师！), server: 161.97.64.169, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: czXXqP8K5Uya}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 3, server: global-transit-01-hn.pucdn.me, port: 60001, type: vmess, uuid: 0e4a0f2f-9cc9-3b11-9e6a-4392c4fcfc6c, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /vvv, ws-headers: {Host: global-transit-01-hn.pucdn.me}}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 7, server: 134.195.196.52, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 27, server: 142.202.48.114, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 28, server: 167.88.63.71, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇸🇪 瑞典(Youtube频道：工具大师！), server: 167.88.63.99, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: _AU(Youtube频道：工具大师！), server: 172.105.171.80, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 8, server: 198.57.27.191, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 9, server: 51.161.118.38, port: 806, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 29, server: 142.202.48.83, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 30, server: 38.68.134.37, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇫🇷 法国(Youtube频道：工具大师！) 2, server: 145.239.7.164, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 31, server: 167.88.62.68, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 32, server: 38.114.114.68, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 33, server: 142.202.48.78, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 34, server: 167.88.62.34, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 35, server: 167.88.63.74, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 36, server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇫🇷 法国(Youtube频道：工具大师！) 3, server: 146.0.36.23, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 37, server: 172.104.168.83, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 38, server: 38.68.134.23, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 10, server: 134.195.196.217, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇸🇬 SG(Youtube频道：工具大师！) 3, server: 217.197.161.109, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 11, server: 134.195.196.3, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 12, server: 134.195.196.110, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 39, server: 142.202.48.108, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 40, server: 104.16.181.103, port: 443, type: vmess, uuid: 7be43971-52f1-48af-9036-454a94b4723a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: "/ws/?ed=2048", ws-headers: {Host: download.china666.ml}}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 13, server: 134.195.196.33, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 美国(Youtube频道：工具大师！), server: 172.99.190.90, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 4, server: cm-jm.okvpn.xyz, port: 20003, type: vmess, uuid: 8b01a256-4f75-4c5e-8389-fca90104ff47, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: 挪威 🇳🇴(Youtube频道：工具大师！) 2, server: 46.29.218.6, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: (技术分享室整理欢迎订阅), server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 14, server: 134.195.196.52, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 15, server: 134.195.198.178, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 16, server: 134.195.198.178, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: FR(Youtube频道：工具大师！), server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 41, server: 172.99.190.186, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 挪威(Youtube频道：工具大师！), server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 5, server: fosyd.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thcm, ws-headers: {Host: fosyd.tuboshu.space}}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 6, server: hzlt.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thcm, ws-headers: {Host: hzlt.tuboshu.space}}
-  - {name: 🇷🇺 俄罗斯(Youtube频道：工具大师！) 2, server: t4.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb, sni: t4.ssrsub.com}
-  - {name: 🇷🇺 俄罗斯(Youtube频道：工具大师！) 3, server: t5.ssrsub.com, port: 21033, type: trojan, password: 2b19f253-5da2-4ca2-a950-8b4e7b3ddadb, sni: t5.ssrsub.com}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 42, server: 107.189.12.75, port: 80, type: vmess, uuid: 261aeb5f-b6f7-359c-a321-9794bf344e12, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: 107.189.12.75}}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 17, server: 134.195.198.178, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: (Youtube频道：工具大师！), server: 134.195.198.95, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 美国(Youtube频道：工具大师！) 2, server: 143.198.237.214, port: 27489, type: vmess, uuid: d73f027b-9a37-4e79-dd29-3a0d1e1da128, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 143.198.237.214}}
-  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 3, server: 172.104.168.83, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇦🇺 澳大利亚 🇦🇺(Youtube频道：工具大师！), server: 172.104.98.216, port: 80, type: vmess, uuid: e5af0cad-295c-37b2-b601-f35d13f6b1bb, alterId: 64, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: www.gov.hk}}
-  - {name: 🇩🇪 德国 🇩🇪(Youtube频道：工具大师！) 2, server: 172.105.59.32, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 43, server: 142.202.48.17, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 44, server: 142.202.48.17, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 4, server: 142.202.48.17, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 US(Youtube频道：工具大师！) 45, server: 142.202.48.58, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 US美国(Youtube频道：工具大师！) 5, server: 142.202.48.77, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: (Youtube频道：工具大师！) 2, server: 145.239.1.137, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇨🇦 加拿大🇨🇦(Youtube频道：工具大师！), server: 198.57.27.113, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇨🇦 加拿大 🇨🇦(Youtube频道：工具大师！) 18, server: 198.57.27.152, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇬🇧 英国 🇬🇧(Youtube频道：工具大师！), server: 23.106.35.90, port: 18336, type: ss, cipher: chacha20-ietf-poly1305, password: A33x2ly5CjwpZ7DYZOe4FC0CupxSKA89caI8gSlRaE3DYnaXeORD6SNFyqBTz3}
-  - {name: (Youtube频道：工具大师！) 3, server: 38.39.192.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 7, server: cm-jm.okvpn.xyz, port: 20015, type: vmess, uuid: 189dede4-c62b-4709-8340-5600557ae8b3, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
-  - {name: 🇭🇰 HK(Youtube频道：工具大师！) 8, server: fosyd.tuboshu.space, port: 18888, type: vmess, uuid: d3a6f8f5-9953-3bf5-956b-1ccc40811a98, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /thkyd, ws-headers: {Host: fosyd.tuboshu.space}}
-  - {name: 🇸🇬 新加坡(Youtube频道：工具大师！), server: 217.197.161.109, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇨🇳 台湾(Youtube频道：工具大师！), server: 140.179.85.93, port: 20805, type: vmess, uuid: 0231acc5-d0c0-47e9-98fd-d71ebfb3b19c, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 140.179.85.93}}
-  - {name: 🇺🇸 美国(Youtube频道：工具大师！) 3, server: v1-do-ua-03.niaoyun.online, port: 666, type: vmess, uuid: 9abca0dd-b438-3bd9-b5db-487af35082d0, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /niaocloud, ws-headers: {Host: v1-do-ua-03.niaoyun.online}}
-  - {name: 🇺🇸 美国(Youtube频道：工具大师！) 4, server: 172.107.233.234, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！), server: 142.202.48.7, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 2, server: 142.202.48.81, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 3, server: 38.107.226.48, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 4, server: 142.202.48.114, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 5, server: 142.202.48.58, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 6, server: 142.202.48.34, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 7, server: 142.202.48.74, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 8, server: 134.195.196.52, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 9, server: 134.195.196.68, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 10, server: 134.195.196.52, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 11, server: 134.195.196.33, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 12, server: 198.57.27.184, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 13, server: 198.57.27.191, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 14, server: 134.195.196.68, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 15, server: 38.75.137.187, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇪🇺 欧洲(Youtube频道：工具大师！) 16, server: 134.195.196.68, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {名称：科技网络，服务器：134.195.196.187，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络2，服务器：134.195.196.3，端口：7307，类型：ss，密码：aes-256-gcm，密码：FoOiGlkAA9yPEGP，udp：true}
+  - {名称：科技网络3，服务器：169.197.142.187，端口：5600，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络4，服务器：134.195.196.187，端口：8090，类型：ss，密码：aes-256-gcm，密码：PCnnH6SQSnfoS27，udp：true}
+  - {名称：科技网络5，服务器：169.197.142.187，端口：8119，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络6，服务器：134.195.196.187，端口：5500，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络7，服务器：198.57.27.218，端口：6697，类型：ss，密码：aes-256-gcm，密码：TEzjfAYq2IjtuoS，udp：true}
+  - {名称：科技网络8，服务器：198.57.27.172，端口：9101，类型：ss，密码：aes-256-gcm，密码：e4FCWrgpkji3QY，udp：true}
+  - {名称：科技网络9，服务器：134.195.196.12，端口：9102，类型：ss，密码：aes-256-gcm，密码：e4FCWrgpkji3QY，udp：true}
+  - {名称：科技网络10，服务器：134.195.196.68，端口：8009，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络11，服务器：134.195.196.68，端口：6379，类型：ss，密码：aes-256-gcm，密码：zDNVedRFPQexG9v，udp：true}
+  - {名称：科技网络12，服务器：134.195.196.12，端口：8888，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络13，服务器：134.195.196.187，端口：5003，类型：ss，密码：aes-256-gcm，密码：g5MeD6Ft3CWlJId，udp：true}
+  - {名称：科技网络14，服务器：134.195.196.68，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络15，服务器：134.195.196.12，端口：5000，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络16，服务器：134.195.196.12，端口：5001，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络17，服务器：38.143.66.71，端口：8090，类型：ss，密码：aes-256-gcm，密码：PCnnH6SQSnfoS27，udp：true}
+  - {名称：科技网络18，服务器：169.197.142.187，端口：7001，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络19，服务器：169.197.142.187，端口：5003，类型：ss，密码：aes-256-gcm，密码：g5MeD6Ft3CWlJId，udp：true}
+  - {名称：科技网络20，服务器：39.earths.team，端口：443，类型：木马，密码：b3d27d09-77fe-431d-9829-6eba7dce20b0，sni：39.earths.team，skip-cert-verify：真的，udp：真的}
+  - {名称：科技网络21，服务器：134.195.196.187，端口：6697，类型：ss，密码：aes-256-gcm，密码：TEzjfAYq2IjtuoS，udp：true}
+  - {名称：科技网络22，服务器：169.197.142.187，端口：6679，类型：ss，密码：aes-256-gcm，密码：TEzjfAYq2IjtuoS，udp：true}
+  - {名称：科技网络23，服务器：134.195.196.187，端口：9102，类型：ss，密码：aes-256-gcm，密码：e4FCWrgpkji3QY，udp：true}
+  - {名称：科技网络24，服务器：134.195.196.12，端口：8119，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络25，服务器：134.195.196.68，端口：6697，类型：ss，密码：aes-256-gcm，密码：TEzjfAYq2IjtuoS，udp：true}
+  - {名称：科技网络26，服务器：51.255.66.185，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络27，服务器：169.197.142.187，端口：5004，类型：ss，密码：aes-256-gcm，密码：g5MeD6Ft3CWlJId，udp：true}
+  - {名称：科技网络28，服务器：134.195.196.12，端口：8000，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络29，服务器：134.195.196.3，端口：8881，类型：ss，密码：aes-256-gcm，密码：kDWvXYZoTBcGkC4，udp：true}
+  - {名称：科技网络30，服务器：134.195.196.12，端口：8008，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络 31，服务器：43.131.51.120，端口：44970，类型：vmess，uuid：334181ca-0c75-4fd2-fd56-51a510c7be65，alterId：0，密码：auto，tls：false，skip-cert-验证：真，UDP：真}
+  - {名称：科技网络32，服务器：134.195.196.187，端口：8091，类型：ss，密码：aes-256-gcm，密码：PCnnH6SQSnfoS27，udp：true}
+  - {名称：科技网络33，服务器：134.195.196.187，端口：7002，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络34，服务器：169.197.142.187，端口：2376，类型：ss，密码：aes-256-gcm，密码：faBAoD54k87UJG7，udp：true}
+  - {名称：科技网络35，服务器：172.99.190.92，端口：7306，类型：ss，密码：aes-256-gcm，密码：FoOiGlkAA9yPEGP，udp：true}
+  - {名称：科技网络36，服务器：134.195.196.227，端口：5500，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络37，服务器：134.195.196.187，端口：8009，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络38，服务器：134.195.196.3，端口：3306，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络39，服务器：134.195.196.187，端口：5001，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络40，服务器：134.195.196.187，端口：8881，类型：ss，密码：aes-256-gcm，密码：kDWvXYZoTBcGkC4，udp：true}
+  - {名称：科技网络 41，服务器：172.105.222.98，端口：80，类型：vmess，uuid：4e1d0b12-25f0-363f-8659-9c6a3ca1fcda，alterId：0，密码：auto，tls：false，skip-cert-验证：true，网络：ws，ws-path：/，ws-headers：{Host：172.105.222.98}，udp：true}
+  - {名称：科技网络42，服务器：134.195.196.68，端口：7002，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络43，服务器：134.195.196.68，端口：5001，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络44，服务器：134.195.196.12，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络 45，服务器：0222tw.fans8.xyz，端口：80，类型：vmess，uuid：5c70da5d-e641-3bf8-b7dc-5babd843ff3c，alterId：2，密码：auto，tls：false，skip- cert-verify: true, network: ws, ws-path: /v2ray, ws-headers: {Host: 0222tw.fans8.xyz}, udp: true}
+  - {名称：科技网络46，服务器：134.195.196.227，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络47，服务器：134.195.196.187，端口：8008，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络48，服务器：134.195.196.12，端口：7002，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络49，服务器：169.197.142.187，端口：8008，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络50，服务器：134.195.196.12，端口：8080，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络51，服务器：134.195.196.187，端口：8119，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络52，服务器：134.195.196.12，端口：8881，类型：ss，密码：aes-256-gcm，密码：kDWvXYZoTBcGkC4，udp：true}
+  - {名称：科技网络53，服务器：134.195.196.187，端口：7306，类型：ss，密码：aes-256-gcm，密码：FoOiGlkAA9yPEGP，udp：true}
+  - {名称：科技网络54，服务器：134.195.196.12，端口：5600，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络55，服务器：134.195.196.12，端口：8882，类型：ss，密码：aes-256-gcm，密码：kDWvXYZoTBcGkC4，udp：true}
+  - {名称：科技网络56，服务器：51.255.66.185，端口：7002，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络57，服务器：134.195.196.12，端口：6697，类型：ss，密码：aes-256-gcm，密码：TEzjfAYq2IjtuoS，udp：true}
+  - {名称：科技网络58，服务器：134.195.196.12，端口：8009，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络59，服务器：145.239.7.164，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络60，服务器：39.earths.team，端口：443，类型：木马，密码：6593b778-e45e-4f94-b5ae-641d4b7b02ae，sni：39.earths.team，skip-cert-verify：真的，udp：真的}
+  - {名称：科技网络61，服务器：china-f4s-az-hk.898868.xyz，端口：62​​315，类型：vmess，uuid：3b07447e-94cf-4d72-96c6-d0a539098049，alterId：0，密码：auto， tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: china-f4s-az-hk.898868.xyz}, udp: true}
+  - {名称：科技网络62，服务器：38.91.102.86，端口：5500，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络63，服务器：198.57.27.172，端口：8881，类型：ss，密码：aes-256-gcm，密码：kDWvXYZoTBcGkC4，udp：true}
+  - {名称：科技网络64，服务器：38.91.102.86，端口：7307，类型：ss，密码：aes-256-gcm，密码：FoOiGlkAA9yPEGP，udp：true}
+  - {名称：科技网络65，服务器：172.99.190.92，端口：9102，类型：ss，密码：aes-256-gcm，密码：e4FCWrgpkji3QY，udp：true}
+  - {名称：科技网络66，服务器：145.239.7.164，端口：2376，类型：ss，密码：aes-256-gcm，密码：faBAoD54k87UJG7，udp：true}
+  - {名称：科技网络67，服务器：134.195.196.187，端口：7001，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络68，服务器：134.195.196.12，端口：5004，类型：ss，密码：aes-256-gcm，密码：g5MeD6Ft3CWlJId，udp：true}
+  - {名称：科技网络69，服务器：134.195.196.68，端口：8888，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络70，服务器：198.57.27.218，端口：7001，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络71，服务器：134.195.196.68，端口：9101，类型：ss，密码：aes-256-gcm，密码：e4FCWrgpkji3QY，udp：true}
+  - {名称：科技网络72，服务器：51.255.66.185，端口：7001，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络73，服务器：134.195.196.3，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络74，服务器：134.195.196.68，端口：8118，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络75，服务器：134.195.196.187，端口：2375，类型：ss，密码：aes-256-gcm，密码：faBAoD54k87UJG7，udp：true}
+  - {名称：科技网络76，服务器：38.143.66.71，端口：8091，类型：ss，密码：aes-256-gcm，密码：PCnnH6SQSnfoS27，udp：true}
+  - {名称：科技网络77，服务器：145.239.7.164，端口：3389，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络78，服务器：134.195.196.12，端口：5500，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络79，服务器：172.99.190.92，端口：7002，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络80，服务器：38.143.66.71，端口：8080，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络81，服务器：134.195.196.12，端口：7001，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络82，服务器：169.197.142.187，端口：5601，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络83，服务器：167.88.63.79，端口：8118，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络84，服务器：169.197.142.187，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络85，服务器：169.197.142.187，端口：9102，类型：ss，密码：aes-256-gcm，密码：e4FCWrgpkji3QY，udp：true}
+  - {名称：科技网络86，服务器：134.195.196.187，端口：8000，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络87，服务器：134.195.196.187，端口：6679，类型：ss，密码：aes-256-gcm，密码：TEzjfAYq2IjtuoS，udp：true}
+  - {名称：科技网络88，服务器：172.99.190.92，端口：443，类型：ss，密码：aes-256-gcm，密码：pKEW8JPByTVTLtM，udp：true}
+  - {名称：科技网络89，服务器：134.195.196.68，端口：7001，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络90，服务器：198.57.27.218，端口：8008，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络91，服务器：134.195.196.227，端口：7002，类型：ss，密码：aes-256-gcm，密码：RexnBgU7EV5ADxG，udp：true}
+  - {名称：科技网络92，服务器：198.57.27.218，端口：6379，类型：ss，密码：aes-256-gcm，密码：zDNVedRFPQexG9v，udp：true}
+  - {名称：科技网络93，服务器：134.195.196.187，端口：5600，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络94，服务器：198.57.27.218，端口：8118，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络95，服务器：198.57.27.218，端口：8119，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络96，服务器：134.195.196.3，端口：6379，类型：ss，密码：aes-256-gcm，密码：zDNVedRFPQexG9v，udp：true}
+  - {名称：科技网络97，服务器：198.57.27.172，端口：3389，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络98，服务器：198.57.27.218，端口：9102，类型：ss，密码：aes-256-gcm，密码：e4FCWrgpkji3QY，udp：true}
+  - {名称：科技网络99，服务器：134.195.196.3，端口：5500，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络100，服务器：134.195.196.68，端口：5601，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络101，服务器：134.195.196.12，端口：7306，类型：ss，密码：aes-256-gcm，密码：FoOiGlkAA9yPEGP，udp：true}
+  - {名称：科技网络102，服务器：134.195.196.68，端口：8008，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络103，服务器：51.255.66.185，端口：7307，类型：ss，密码：aes-256-gcm，密码：FoOiGlkAA9yPEGP，udp：true}
+  - {名称：科技网络104，服务器：134.195.196.187，端口：6379，类型：ss，密码：aes-256-gcm，密码：zDNVedRFPQexG9v，udp：true}
+  - {名称：科技网络105，服务器：134.195.196.68，端口：5500，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络106，服务器：134.195.196.187，端口：8882，类型：ss，密码：aes-256-gcm，密码：kDWvXYZoTBcGkC4，udp：true}
+  - {名称：科技网络107，服务器：134.195.196.12，端口：8118，类型：ss，密码：aes-256-gcm，密码：cdBIDV42DCwnfIN，udp：true}
+  - {名称：科技网络108，服务器：134.195.196.12，端口：3389，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络109，服务器：134.195.196.12，端口：3306，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络110，服务器：134.195.196.12，端口：6379，类型：ss，密码：aes-256-gcm，密码：zDNVedRFPQexG9v，udp：true}
+  - {名称：科技网络111，服务器：134.195.196.3，端口：8008，类型：ss，密码：aes-256-gcm，密码：XKFKl2rULjIp74，udp：true}
+  - {名称：科技网络112，服务器：169.197.142.187，端口：8888，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络113，服务器：169.197.142.187，端口：5001，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络114，服务器：193.108.117.75，端口：8881，类型：ss，密码：aes-256-gcm，密码：kDWvXYZoTBcGkC4，udp：true}
+  - {名称：科技网络115，服务器：38.143.66.71，端口：5001，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络116，服务器：134.195.196.187，端口：8080，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络117，服务器：134.195.196.187，端口：3306，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络118，服务器：134.195.196.227，端口：8888，类型：ss，密码：aes-256-gcm，密码：Y6R9pAtvxxzmGC，udp：true}
+  - {名称：科技网络119，服务器：169.197.142.187，端口：8080，类型：ss，密码：aes-256-gcm，密码：KixLvKzwjekG00rm，udp：true}
+  - {名称：科技网络120，服务器：china-f4s-az-hk.898868.xyz，端口：37817，类型：vmess，uuid：3b07447e-94cf-4d72-96c6-d0a539098049，alterId：0，密码：auto， tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: china-f4s-az-hk.898868.xyz}, udp: true}
